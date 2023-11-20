@@ -1,5 +1,5 @@
 # Tmphotos (old design)
-## Old designe of website TIMA PHOTOS (https://tmphotos.ru/)
+## Old design of website TIMA PHOTOS (https://tmphotos.ru/)
 A simple photography website powered by bootstrap 4.5. The website hasn't any CMS, photos are added or removed through coding of the "index.html" file. Photos are added to the "photo" folder.  
 The maximal size of a landscape photo orientation is recommended 1280px, a portrait photo orientation - 960px.
 
